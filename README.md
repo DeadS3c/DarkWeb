@@ -1,2 +1,3 @@
 # DarkWeb
-Repository to include the findings for the Dark Web
+Repository with all the findings from the Dark Web
+Expect a lot of .onion links, don't be bad :D
